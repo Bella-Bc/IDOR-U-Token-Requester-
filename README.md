@@ -1,4 +1,4 @@
-# IDOR-U Token Requester
+# IDOR-U Token Requestor
 
 Don't you just adore IDOR vulnerablilites?<br>
 This example is for an AWS vulnerable endpoint. 
